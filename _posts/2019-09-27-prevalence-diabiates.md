@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Prevalence of diabetes 
-subtitle: in USA 2004 - 2013
+subtitle: in USA 2004 - 2013{: .center-block :}
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [diabetes]
 comments: true
 ---
 
