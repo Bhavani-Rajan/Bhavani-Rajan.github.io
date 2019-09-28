@@ -7,6 +7,8 @@ gh-badge: [star, fork, follow]
 tags: [diabetes]
 comments: true
 ---
+
+
 **Percentage of diabetic people in USA in 2004**
 
 ![USA in 2004](/img/USA_2004.png)
