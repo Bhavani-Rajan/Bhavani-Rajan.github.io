@@ -7,7 +7,11 @@ gh-badge: [star, fork, follow]
 tags: [diabetes]
 comments: true
 ---
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+**Introduction**
+Diabetes is a serious disease that can often be managed through physical activity, diet, and the appropriate use of insulin and other medications to control blood sugar levels. People with diabetes are at increased risk of serious health complications including premature death, vision loss, heart disease, stroke, kidney failure, and amputation of toes, feet, or legs./headings/tables/etc.
+
+The Analysis of prevalence of diabetes, helps us to clearly identify the regions of this deadly disease's spread.
+
 
 **Percentage of diabetic people in USA in 2004**
 
@@ -20,3 +24,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 **Percentage of diabetic people in USA in 2013**
 
 ![USA in 2013](/img/USA_2013.png)
+
+**Conclusion**
+
+The map clearly shows the rise of this disease in south eastern and few regions of eastern United States compared to the other parts of United States. 
