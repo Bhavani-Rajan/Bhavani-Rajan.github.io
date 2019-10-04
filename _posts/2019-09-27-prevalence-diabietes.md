@@ -3,11 +3,12 @@ layout: post
 title: Prevalence of Diabetes
 subtitle: USA 2004 - 2013
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-badge: 
 tags: [diabetes]
 comments: true
 ---
 **Introduction**
+
 Diabetes is a serious disease that can often be managed through physical activity, diet, and the appropriate use of insulin and other medications to control blood sugar levels. People with diabetes are at increased risk of serious health complications including premature death, vision loss, heart disease, stroke, kidney failure, and amputation of toes, feet, or legs./headings/tables/etc.
 
 The Analysis of prevalence of diabetes, helps us to clearly identify the regions of this deadly disease's spread.
