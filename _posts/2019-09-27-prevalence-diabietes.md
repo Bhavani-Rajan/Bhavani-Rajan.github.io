@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Prevalence of diabetes in United States
+layout:post
+title:Prevalence of diabetes in United States
 subtitle:2004 - 2013
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
