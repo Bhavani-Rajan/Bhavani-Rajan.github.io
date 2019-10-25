@@ -26,10 +26,12 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
 	cover types were used as dependent variables.  Several subsets 
 	of these variables were examined to determine the best overall 
 	predictive model. 
+	
 ## Feature information
   * Elevation in meters
   * Aspect in degrees azimuth
   * Slope in degrees
+  
 ## Baseline prediction
 **Types of trees that cover the forest**
 
