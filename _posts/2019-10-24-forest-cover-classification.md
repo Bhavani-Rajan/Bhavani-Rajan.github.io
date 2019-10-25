@@ -8,22 +8,22 @@ gh-badge:
 tags: [forest cover]
 comments: true
 ---
-**Introduction**
+## Introduction
 Identification of types of trees covering the forest.
 
+## The Data
 
-**Types of trees in that cover the forest**
+## Baseline prediction
+**Types of trees that cover the forest**
 
-![Types of trees in that cover the forest](/img/forest cover.png)
+![Types of trees that cover the forest](/img/forest cover.png)
 
-**Percentage of diabetic people in USA in 2008**
+## Data Exploration
 
-![USA in 2008](/img/USA_2008.png)
+## Selection of the model
 
-**Percentage of diabetic people in USA in 2013**
+## Feature importances
 
-![USA in 2013](/img/USA_2013.png)
-
-**Conclusion**
+## Summary
 
 The map clearly shows the rise of this disease in south eastern and few regions of eastern United States compared to the other parts of United States. 
