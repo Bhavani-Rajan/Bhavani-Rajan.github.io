@@ -103,7 +103,7 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
 ![Elevation vs Soil type for forest cover](/img/ele_st.png)
 
 ## Selection of the model
- I could not draw any conclution by the data exploration. So tried accuracy score using 
+ I could not draw any conclusion by the data exploration. So tried accuracy score using 
   
   * Decision Tree model (81%)
   
