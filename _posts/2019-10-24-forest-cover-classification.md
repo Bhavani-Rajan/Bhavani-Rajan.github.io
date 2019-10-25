@@ -128,5 +128,5 @@ Score improved by a percent using the top 8 features.
 ## Summary
 
 For each subset of cartographic variables examined in 
-this study, relative classification accuracies indicate the 
-Random Forest Classifier with top 8 features performed better compared to the other models in predicting forest cover types.
+this study, relative classification accuracies indicate that, the 
+Random Forest Classifier with top 8 features, performed better compared to the other models in predicting forest cover types.
