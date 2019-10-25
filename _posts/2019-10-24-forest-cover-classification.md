@@ -91,12 +91,15 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
 
 ### Two Features
 **Aspect, Slope for Forest Cover**
+
 ![Aspect, Slope for Forest Cover](/img/fc_as_sl.png)
 
 **Hydrology distances for Forest Cover**
+
 ![hydrology distances for forest cover](/img/fc_hy_dist.png)
 
 **Elevation vs Soil type for Forest Cover**
+
 ![Elevation vs Soil type for forest cover](/img/ele_st.png)
 
 ## Selection of the model
