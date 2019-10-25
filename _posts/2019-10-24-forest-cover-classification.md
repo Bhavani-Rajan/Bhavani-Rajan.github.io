@@ -103,9 +103,28 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
 ![Elevation vs Soil type for forest cover](/img/ele_st.png)
 
 ## Selection of the model
+ I could not draw any conclution by the data exploration. So tried accuracy score using 
+  
+  * Decision Tree model (81%)
+  
+  * Random Forest Classifier model (88.2%)
+  
+  * XGBoost Classifier (73.8%)
+  
+ Its evident that Random Forest Classifier topped the list.
 
 ## Feature importances
 
+**Top 12 features**
+
+![top 12 features](/img/feature_imp_rf.png)
+ 
+**Feature Importances with weights**
+
+![feature imp with wt](/img/feature importance with weight.png)
+
+Score improved by a percent using the top 8 features. 
+
 ## Summary
 
-The map clearly shows the rise of this disease in south eastern and few regions of eastern United States compared to the other parts of United States. 
+
