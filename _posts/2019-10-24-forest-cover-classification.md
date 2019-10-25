@@ -74,6 +74,7 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
 ![Distribution of trees that cover the forest](/img/Forest cover dist.png)
 
 ## Data Exploration
+
 **Forest Cover Vs Elevation, Aspect, Slope **
 
 ![Forest Cover Vs Elevation, Aspect, Slope](/img/fc_ele_as_sl.png)
@@ -82,7 +83,7 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
 
 ![Forest Cover Vs distances](/img/fc_dist.png)
 
-**Forest Cover Vs HillShade at 9 am , noon, 3 pm **
+**HillShade at 9 am , Noon, 3 pm Vs Forest Cover**
 
 ![Forest Cover Vs hillshade](/img/fc_hs.png)
 
