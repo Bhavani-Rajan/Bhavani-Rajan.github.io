@@ -14,7 +14,6 @@ comments: true
 
 ## The Data
   This is a dataset from UCI repository.
-  
   The actual forest cover type for a given observation (30 x 30 meter cell) 
   was determined from US Forest Service (USFS) Region 2 Resource Information System 
 (RIS) data.  Independent variables were derived from data originally obtained from 
