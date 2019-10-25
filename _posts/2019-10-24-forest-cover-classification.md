@@ -28,20 +28,33 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
 	predictive model. 
 	
 ## Feature information
+  
   * Elevation in meters
+  
   * Aspect in degrees azimuth
+  
   * Slope in degrees
+  
   * Horizontal distance to nearest surface water features
+  
   * Vertical distance to nearest surface water features
+  
   * Horizontal distance to nearest roadway
+  
   * Horizontal distance to nearest wildfire ignition points
+  
   * Hillshade index at 9am, summer solstice
+  
   * Hillshade index at noon, summer solstice
+  
   * Hillshade index at 3pm, summer solstice
+  
   * Wilderness area designation (4 binary columns)
+  
   * Soil Type designation (40 binary columns)
 
-## target information
+## Target information
+  
   * Forest Cover Type designation
   
 ## Baseline prediction
