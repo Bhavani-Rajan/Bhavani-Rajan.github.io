@@ -75,11 +75,11 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
 
 ## Data Exploration
 
-**Forest Cover Vs Elevation, Aspect, Slope **
+**Elevation, Aspect, Slope Vs Forest Cover**
 
 ![Forest Cover Vs Elevation, Aspect, Slope](/img/fc_ele_as_sl.png)
 
-**Forest Cover Vs Horz Dist from water features, Vert Dist from water features, Horz Dist to roadways, Horz Dist to wildfire ignition pts  **
+**Hydrology distances, fire point distances, roadway distances Vs Forest Cover**
 
 ![Forest Cover Vs distances](/img/fc_dist.png)
 
