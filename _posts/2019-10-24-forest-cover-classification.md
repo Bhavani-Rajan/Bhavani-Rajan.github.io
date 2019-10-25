@@ -58,8 +58,8 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
   * Forest Cover Type designation
   
 ## Data Cleaning and Feature Engineering
-  Our Data is a clean data as its recorded observation with no null values.
-  Two features( Wilderness area and Soil type) are the binary columns made for the 44 columns instead of two.
+  Our Data is recorded observation with no null values.
+  Two features( Wilderness area and Soil type),which are the binary columns, spanning 44 columns instead of two.
   Bringing the 44 columns down to 2 columns made model perform better. 
 
 ## Baseline prediction
@@ -74,6 +74,18 @@ binary (0 or 1) columns of data for qualitative independent variables (wildernes
 ![Distribution of trees that cover the forest](/img/Forest cover dist.png)
 
 ## Data Exploration
+**Forest Cover Vs Elevation, Aspect, Slope **
+
+![Forest Cover Vs Elevation, Aspect, Slope](/img/fc_ele_as_sl.png)
+
+**Forest Cover Vs Horz Dist from water features, Vert Dist from water features, Horz Dist to roadways, Horz Dist to wildfire ignition pts  **
+
+![Forest Cover Vs distances](/img/fc_dist.png)
+
+**Forest Cover Vs HillShade at 9 am , noon, 3 pm **
+
+![Forest Cover Vs hillshade](/img/fc_hs.png)
+
 
 ## Selection of the model
 
