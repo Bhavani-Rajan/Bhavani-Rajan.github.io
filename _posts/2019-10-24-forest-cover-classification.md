@@ -2,7 +2,7 @@
 layout: post
 title: Forest Cover Classification
 subtitle: 
-bigimg: /img/path.jpg
+bigimg: /img/forestcover_title.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: 
 tags: [forest cover]
