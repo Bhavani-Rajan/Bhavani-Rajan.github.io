@@ -1,14 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: DataScientist 
+subtitle: Bhavan Rajan 
 ---
 
-My name is Bhavani Rajan. 
-
-
-
-### my history
 
 Data Scientist with a passion for solving puzzles and experience using Object Oriented Programming to solve problems.
 I studied at Lambda School, where I also served as a Team Lead. My background is as a Java Programmer with 3 years of corporate experience. 
