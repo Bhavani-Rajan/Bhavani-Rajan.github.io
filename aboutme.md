@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Budding DataScientist 
+subtitle: DataScientist 
 ---
 
 My name is Bhavani Rajan. 
@@ -10,9 +10,12 @@ My name is Bhavani Rajan.
 
 ### my history
 
-I'm an Electronics and Communication Engineer. 
-Worked in software services industry.  
-Aspiring to become a Data Scientist.
+Data Scientist with a passion for solving puzzles and experience using Object Oriented Programming to solve problems.
+I studied at Lambda School, where I also served as a Team Lead. My background is as a Java Programmer with 3 years of corporate experience. 
+In my free time, I enjoy gardening.
+
+
+
 
 
 #### Contact me
