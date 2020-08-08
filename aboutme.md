@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Bhavan Rajan 
+subtitle: Bhavani Rajan 
 ---
 
 
